@@ -145,7 +145,7 @@ body
 	height:311px;
 	cursor:pointer;
 	transition:all .3s ease;
-	z-index:999;
+	z-index:1;
 }
 
 #update_LT .section02 .section02_seeMore_wrapper .section02_seeMore1:hover
