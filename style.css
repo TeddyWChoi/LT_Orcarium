@@ -534,18 +534,24 @@ body
 }
 #update_LT .section03 .section03_06
 {
-	position: relative;
 	max-width:1920px;
 	width:100%;
 	height:2013px;
 	background-position:center;
 	background-repeat:no-repeat
 }
+#update_LT .section03 .section03_06 .section03_06_div
+{
+	position: relative;
+	width:500px;
+	height:2013px;
+	margin:0 auto;
+}
 #update_LT .section03 .section03_06 .section03_06_img
 {
 position: absolute;
 bottom: 167px;
-left: 614px;
+left: -76px;
 width: 200px;
 }
 #update_LT .section03 .section03_07
