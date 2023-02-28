@@ -1979,16 +1979,38 @@
     </div>
     <section class="section01">
       <!-- poster="https://static.papayaplay.com/static/assets/images/latale/portal/update/pneuma/bg_top.jpg" -->
-      <video class="section01_video" playsinline="" autoplay="" muted="" loop="" poster="./images/bg_top.jpg">
-        <!-- <source src="https://static.papayaplay.com/static/assets/videos/latale/microsite/pneuma/pneuma_web_bg.mp4" type="video/mp4"> -->
-        <!-- <source src="./images/bg_top.mp4" type="video/mp4"> -->
-      </video>
+      <!-- <video class="section01_video" playsinline="" autoplay="" muted="" loop="" poster="./images/bg_top.jpg">
+        <source src="https://static.papayaplay.com/static/assets/videos/latale/microsite/pneuma/pneuma_web_bg.mp4" type="video/mp4">
+        <source src="./images/bg_top.mp4" type="video/mp4">
+      </video> -->
+
+      <div id="wrap">
+
+        <div data-v-a62490da="" id="e2022-3q-update">
+           
+            <div data-v-a62490da="" class="page">
+                <section data-v-a62490da="" id="main">
+                    <section class="section main on end">
+                        <div class="animation char-minigolem1" style="transform: translateX(-1px);">미니골렘 왼쪽</div>
+                        <div class="animation char-minigolem2" style="transform: translateX(-1px);">미니골렘 오른쪽</div>
+                        <div class="animation char-golem">골렘</div>
+                        <div class="animation char-noname">노네임</div>
+                        <div class="animation title" :style="{'background-image':'url('+imgUrl+'logo.png)'}">오르카리움</div>
+                    </section>
+                   
+                </section>
+            </div>
+            
+        </div>
+
+    </div>
+
       <div class="section01_contentsWrapper">
         <!-- 유튜브 링크 나오면 수정해야함. 임시 영상임 -->
         <a class="play-btn-wrapper01" data-lity href="https://www.youtube.com/watch?v=sRyUNhl11oA">
-          <div class="section01_playBtn" :style="{'background-image':'url('+imgUrl+'btn_play.png)'}"></div>
+          <div class="section01_playBtn animation" :style="{'background-image':'url('+imgUrl+'btn_play.png)'}"></div>
         </a>
-        <div class="section01_logo" :style="{'background-image':'url('+imgUrl+'logo.png)'}"></div>
+        <!-- <div class="section01_logo" :style="{'background-image':'url('+imgUrl+'logo.png)'}"></div> -->
       </div>
     </section>
     <section class="section02" :style="{'background-image':'url('+imgUrl+'bg_second.jpg)'}">
