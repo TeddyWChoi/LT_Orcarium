@@ -793,7 +793,8 @@ width: 200px;
 
 #main .section.main
 {
-	background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-7e402c8b.jpg?27260d5d) no-repeat center 89px;
+	/* background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-7e402c8b.jpg?27260d5d) no-repeat center 89px; */
+	background-position: center 89px;
 	height:1744px;
 	margin:-89px 0 0;
 	overflow:hidden;
@@ -825,7 +826,7 @@ width: 200px;
 
 #main .section.main .animation.char-minigolem1
 {
-	background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-b0f75cfa.png?6565cad1) no-repeat 0 0;
+	/* background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-b0f75cfa.png?6565cad1) no-repeat 0 0; */
 	height:445px;
 	margin-left:-917px;
 	top:141px;
@@ -845,7 +846,7 @@ width: 200px;
 
 #main .section.main .animation.char-minigolem2
 {
-	background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-4a2b8a64.png?b09f1f15) no-repeat 0 0;
+	/* background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-4a2b8a64.png?b09f1f15) no-repeat 0 0; */
 	height:292px;
 	margin-left:414px;
 	top:184px;
@@ -864,7 +865,7 @@ width: 200px;
 
 #main .section.main .animation.char-golem
 {
-	background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-03a72c1c.png?758e0279) no-repeat 0 0;
+	/* background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-03a72c1c.png?758e0279) no-repeat 0 0; */
 	height:1907px;
 	margin-left:-1392px;
 	top:-256px;
@@ -881,7 +882,7 @@ width: 200px;
 
 #main .section.main .animation.char-noname
 {
-	background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-90dedc70.png?5567822d) no-repeat 0 0;
+	/* background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-90dedc70.png?5567822d) no-repeat 0 0; */
 	height:1300px;
 	margin-left:-1300px;
 	top:306px;
@@ -899,7 +900,7 @@ width: 200px;
 
 #main .section.main .animation.title
 {
-	background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-6882afeb.png?55055f01) no-repeat 0 0;
+	/* background:url(https://static.latale.com/event/fun/2022/3q-update/image/11c67805-6882afeb.png?55055f01) no-repeat 0 0; */
 	height:408px;
 	margin-left:-361px;
 	top:800px;
